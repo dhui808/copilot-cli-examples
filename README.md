@@ -1,6 +1,9 @@
 # copilot-cli-examples
 GitHub Copilot CLI examples
 
+### Install via npm
+npm install -g @github/copilot
+
 ### Launch CLI
 Windows PowerShell:  
 copilot 
